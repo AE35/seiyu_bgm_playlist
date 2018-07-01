@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.0
+lxml==4.2.2
+requests==2.19.1
+spotipy==2.4.4
